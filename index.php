@@ -45,5 +45,8 @@
 					<li>each user can donate <strong>many times</strong> to the same campaign</li>
 					<li>each campaign can accept <strong>many</strong> donations</li>
 				</ul>
+			
+			<h2>Entity Relationship Diagram</h2>
+			<img src="images/goFundMeErd.svg" alt="ERD">
 		</body>
 </html>
