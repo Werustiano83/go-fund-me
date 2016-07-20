@@ -9,7 +9,7 @@
 	</head>
 		<body>
 			<div class="stitched">
-				<h1> gofundme.com donation Data Design Analysis </h1>
+				<h1> gofundme.com donation DDA </h1>
 			</div>
 			<h2> Persona </h2>
 				<p> Mrs. Gene Orus has a big heart; since she's a widow and her "God Rest His Soul" husband left her in a very wealthy financial shape, she constantly looks for opportunities to give someone a financial lift. </p>
