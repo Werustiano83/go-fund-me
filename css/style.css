@@ -24,11 +24,11 @@ ul {
 	margin: 10px;
 	background: #1f4B00;
 	color: #fff;
-	font-size: 50px;
+	font-size: 20px;
 	line-height: 1.0em;
 	border: 4px dashed #fff;
 	border-radius: 10px;
 	box-shadow: 0 0 0 4px #B5E196, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
-	text-shadow: -1px -1px #aa3030;
+	text-shadow: -1px -1px #B5E196;
 	font-weight: normal;
 }
